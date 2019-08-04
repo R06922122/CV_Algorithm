@@ -1,1 +1,1 @@
-"# Computer Vision Method" 
+# Computer Vision Method
